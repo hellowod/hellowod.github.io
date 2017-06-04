@@ -1,6 +1,6 @@
-## Welcome to hellowod GitHub
+## hellowod
 
-Sample is most!
+Simple best
 
 ## Projects
 
