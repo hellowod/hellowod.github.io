@@ -18,4 +18,4 @@ Simple best
 
 ## Contact
 
-[abaojin github](https://github.com/abaojin)
+[abaojin gitpage](https://abaojin.github.io)
