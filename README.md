@@ -1,6 +1,6 @@
 ## Introduction
 
-hellowod project index
+hellowod project index.
 
 ## Projects
 
@@ -23,7 +23,7 @@ hellowod project index
 * [templete-builder](https://github.com/hellowod/templete-builder)
     > golang实现配表转常见文本格式工具项目，如转成C#、java、C++、lua、csv等文本。
 * [tensorflow-mnist](https://github.com/hellowod/tensorflow-mnist)
-    > python实现经典数字识别人工智能案例
+    > python实现经典数字识别人工智能案例。
 * [lua-development](https://github.com/hellowod/lua-development)
     > 整理lua 5.2源码，共个人阅读源码方便。
 * [lua-csharp-development](https://github.com/hellowod/lua-csharp-development)
